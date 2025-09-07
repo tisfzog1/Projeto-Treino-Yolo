@@ -5,14 +5,6 @@ O fluxo inclui preparação do dataset, separação automática em treino/valida
 
 ---
 
-## 🚀 Executar no Google Colab
-
-Clique no botão abaixo para abrir o notebook diretamente no Google Colab (GPU recomendada):
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/tisfzog1/Projeto-Treino-Yolo/blob/main/TreinoYolo.ipynb)
-
----
-
 ## 📖 Passo a Passo
 
 ### **Etapa 1 — Montar Google Drive**
