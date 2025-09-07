@@ -9,7 +9,7 @@ O fluxo inclui preparação do dataset, separação automática em treino/valida
 
 Clique no botão abaixo para abrir o notebook diretamente no Google Colab (GPU recomendada):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/tisfzog1/Projeto-Treino-Yolo/blob/main/TreinoYolo.ipynb)
 
 ---
 
